@@ -1,14 +1,22 @@
 Library Portal (in PHP)
 ===========================
 
-A library website the lending and borrowing of books by customers and addition/deletion/editing of books by librarians
+PURPOSE 
+
+A library website for the lending and borrowing of books by customers and addition/deletion/editing of books by librarians
 
 This website was written by me to get selected for the backend of Shaastra webops (backend) team
 
 
-Detailed Problem Statement
+RUNNING THIS USING THE XAMPP PACKAGE
 
-Library Control
+1. Create a folder called xxxxx in xampp/htdocs
+2. Paste all these files into xxxxx
+3. Start the apache sever either using the 'start apache' button on the xampp control panel. OR. If you have a linux based system, type - sudo /opt/lampp/lampp start
+4. Open a browser and type the url http://localhost/xxxxx
+
+
+DETAILED PROBLEM STATEMENT
 
 Your task is to build a library application portal. A brief description of its functionalities is given below:
 
